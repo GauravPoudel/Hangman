@@ -7,5 +7,5 @@ To run the file in windows Download SDL library and configure header, library an
 
 We'll soon also add a file which will work for windows even without SDL.
 
-Any ideas and improvementwill be greatly admired 
+Any ideas and improvements will be greatly admired 
 
