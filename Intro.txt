@@ -1,0 +1,9 @@
+Hello Everyone...........
+Welcome to this project demo
+This is a command line hangman game we made as our project
+We tried our best to make it as fun as possible and hope you'll like it
+
+The source code of the project can be found in the given github link:
+https://github.com/GauravPoudel/Hangman
+
+Thank you for your Time :)
